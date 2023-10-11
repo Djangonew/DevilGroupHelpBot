@@ -1,6 +1,6 @@
 # Devil Group Help Bot
 
-DEPLOY HERE - https://heroku.com/deploy?template=https://github.com/Djangonew/
+DEPLOY HERE - https://heroku.com/deploy?template=https://github.com/Djangonew/DevilGroupHelpBot
 [.](https://heroku.com/deploy)
 Credits - [Devil Support Group](https://t.me/deviluserbot)
 
